@@ -19,22 +19,25 @@
                             <a class="nav-link active" aria-current="page" href="#">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">About Us</a>
+                            <a class="nav-link" href="#">About</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Dental Materials</a>
+                            <a class="nav-link" href="#">Materials</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Disposable Products</a>
+                            <a class="nav-link" href="#">Disposables</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Dental Instruments </a>
+                            <a class="nav-link" href="#">Instruments </a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="/contact">Contact Us</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#">Become a Dealer</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/login">Login</a>
                         </li>
                     </ul>
                 </div>
